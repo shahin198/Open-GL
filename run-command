@@ -1,0 +1,5 @@
+// compile
+g++ GL03Viewport.cpp -o GL03Viewport -lglut -lGLU -lGL
+
+// run
+ ./GL03Viewport 
