@@ -41,3 +41,5 @@ g++ main.cpp -o firstOpenGlApp -lglut -lGLU -lGL
 ```
 ./firstOpenGlApp
 ```
+# good tutorial
+http://www3.ntu.edu.sg/home/ehchua/programming/opengl/cg_introduction.html
